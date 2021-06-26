@@ -2,7 +2,7 @@
 title: Usługi
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Usługi
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: mosaic
