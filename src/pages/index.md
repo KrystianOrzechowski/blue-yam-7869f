@@ -10,7 +10,7 @@ sections:
       - label: Zadzwoń do nas !
         url: /contact
         style: button
-  - title: 'Na jakie usługi możesz się zdecydować wybierając nasz serwis :'
+  - title: Na jakie usługi możesz się zdecydować wybierając nasz serwis
     section_id: lorem-ipsum
     subtitle: >-
       Serwisy komputerowe realizują różnorodne usługi. Pomoc komputerowa może
