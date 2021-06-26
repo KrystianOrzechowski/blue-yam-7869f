@@ -25,17 +25,7 @@ sections:
       doprowadzony do naturalnego stanu. Zdecydować można się też na
       profesjonalne czyszczenie komputera lub też czyszczenie laptopa.
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "## Serwis komputerowy Lublin&#xA;\n\nW naszym\_**serwisie komputerowym**\_można zdecydować się też na\_**składanie komputera**\_od podstaw. Ponadto można zainwestować w\_**usuwanie wirusów**, tak aby złośliwe oprogramowanie nie sprawiło, że komputer w końcu przestanie działać. Przewidziana jest również\_**modernizacja laptopów**, aby stale je ulepszać, np. dodając\_**pamięć ram do laptopa**. Ludzie chętnie decydują się też na\_**instalowanie nowych urządzeń**, aby sprzęt był jeszcze bardziej funkcjonalny i wydajny. Polecane jest\_**odzyskiwanie danych**\_z\_**dysku twardego**, jeśli odmówi on posłuszeństwa, ale też kompleksowa\_**modernizacja komputera stacjonarnego**, tak aby korzystanie z niego było samą przyjemnością.\n\n\n"
     type: section_content
   - section_id: latest-projects
     type: section_portfolio
