@@ -10,7 +10,7 @@ sections:
       - label: Zadzwoń do nas !
         url: /contact
         style: button
-  - title: lorem-ipsum
+  - title: 'Na jakie usługi możesz się zdecydować wybierając nasz serwis :'
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
