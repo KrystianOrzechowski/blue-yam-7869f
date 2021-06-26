@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt ITVENLO
 hide_title: false
 sections:
   - section_id: contact-form
