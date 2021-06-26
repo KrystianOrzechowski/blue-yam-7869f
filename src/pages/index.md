@@ -12,7 +12,18 @@ sections:
         style: button
   - title: 'Na jakie usługi możesz się zdecydować wybierając nasz serwis :'
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Serwisy komputerowe realizują różnorodne usługi. Pomoc komputerowa może
+      być oparta na wprowadzaniu do sprzętów różnych aktualizacji oraz
+      oprogramowań. Nasz serwis komputerowy zna się na tym doskonale, dlatego
+      wymiana matrycy nie jest dla naszych specjalistów żadnym poważniejszym
+      wyzwaniem, gdy zajdzie taka konieczność. W grę wchodzi także instalacja
+      sterowników, które są niezbędne do prawidłowego działania laptopa. Przy
+      okazji zostanie zrealizowana instalacja Windows, aby można było korzystać
+      z wielu programów komputerowych w sposób legalny. Usługi komputerowe
+      wykonywane są rzetelnie, dlatego zalany laptop szybko zostanie
+      doprowadzony do naturalnego stanu. Zdecydować można się też na
+      profesjonalne czyszczenie komputera lub też czyszczenie laptopa.
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
