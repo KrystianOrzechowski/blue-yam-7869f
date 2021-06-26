@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Usługi
 hide_title: true
 sections: []
 seo:
