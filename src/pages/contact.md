@@ -4,12 +4,13 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at <example@example.com>.
+    content: >+
 
 
-      Witaj! Dziękujemy bardzo za zainteresowanie oferta 
+      Witaj! Dziękujemy bardzo za zainteresowanie oferta jesteśmy w tym razem .
+      Mozna wypelnic forlmularz jak podany przyklad lub zadzwon 
+      <example@example.com>.
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
