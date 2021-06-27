@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Serwis Komputerowy Venlo
-    content: "**Pogotowie komputerowe lublin**\_to odpowiedni wybór, dla ceniacych wygodę i szybkość w usunieciu usterki.\_**Naprawa komputerów**\_bywa niekiedy żmudnym zajęciem lub trudnym do usunięcia we własnym zakresie. Nasz\_**serwis komputerowy**\_jest w stanie usunąć wszelkie usterki związane z Pańtwa sprzętem. Dzięki fachowej wiedzy\_**naprawa laptopów i komputerów**\_nie stanowie dla nas przeszkód i przebiega bez przszkód w niskiej cenie po czym trafia do wlaściciela lub jest naprawiany na miejscu.\n\n"
+    content: "**Pogotowie komputerowe Venlo**\_to odpowiedni wybór, dla ceniacych wygodę i szybkość w usunieciu usterki.\_**Naprawa komputerów**\_bywa niekiedy żmudnym zajęciem lub trudnym do usunięcia we własnym zakresie. Nasz\_**serwis komputerowy**\_jest w stanie usunąć wszelkie usterki związane z Pańtwa sprzętem. Dzięki fachowej wiedzy\_**naprawa laptopów i komputerów**\_nie stanowie dla nas przeszkód i przebiega bez przszkód w niskiej cenie po czym trafia do wlaściciela lub jest naprawiany na miejscu.\n"
     actions:
       - label: Zadzwoń do nas !
         url: /contact
