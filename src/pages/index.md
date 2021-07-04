@@ -64,7 +64,7 @@ sections:
         actions:
           - label: Kliknij po wiecej
             url: '#'
-            style: link
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
