@@ -38,6 +38,19 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 template: post
+excerpt: >-
+  Płyta główna jest jednym z najważniejszych i najdroższych podzespołów w
+  laptopie. Odpowiada ona za komunikacje z pozostałymi podzespołami w
+  komputerze. Usterki płyt głównych należą bardzo często do najbardziej
+  skomplikowanych i trudnych w naprawie. Jako jeden z niewielu serwisów w
+  Warszawie, dysponujemy niezbędnym sprzętem oraz wiedzą umożliwiającą ich
+  naprawę.  Najczęstsze oznaki usterki płyt głównych :  nie uruchamia się
+  wyłącza podczas pracy nie działa Wifi i LAN problem z obrazem nie wykrywa
+  dysku twardego nie ładuje baterii nie działają porty USB brak obrazu na
+  matrycy problem z działaniem po zalaniu Należy pamiętać że oznaki te nie
+  zawsze świadczą o uszkodzonej płycie głównej, przed podjęciem naprawy należy
+  wykonać dokładna diagnostykę. Wycena i diagnoza w naszym serwisie jest zawsze
+  bezpłatna. Naprawa laptopów w Warszawie -sprawdź TPLserwis
 ---
 
 **Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
