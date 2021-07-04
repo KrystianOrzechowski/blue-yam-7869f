@@ -62,7 +62,7 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
-          - label: lorem-ipsum
+          - label: Kliknij po wiecej
             url: '#'
             style: link
             icon: dribbble
