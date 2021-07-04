@@ -77,7 +77,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: '#'
-            style: link
+            style: button
             icon: dribbble
             new_window: true
             no_follow: false
