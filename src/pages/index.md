@@ -61,18 +61,6 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - image_alt: lorem-ipsum
-        content: |
-          *
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
