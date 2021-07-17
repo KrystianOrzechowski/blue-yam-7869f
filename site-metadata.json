@@ -37,7 +37,7 @@
             },
             {
                 "label": "Cennik",
-                "url": "#cennik",
+                "url": "/cenn",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
