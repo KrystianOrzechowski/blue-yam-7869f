@@ -1,5 +1,4 @@
 ---
-title: Cennik
 image_alt: lorem-ipsum
 seo:
   title: ''
